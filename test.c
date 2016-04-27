@@ -2,7 +2,6 @@
 #include <string.h>
 
 #define LEN 7
-
 extern char *getStudentID(char *id);
 
 int check1(char m)
